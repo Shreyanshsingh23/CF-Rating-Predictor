@@ -1,0 +1,3 @@
+pip install streamlit requests
+
+streamlit run cf_rating_predictor.py
